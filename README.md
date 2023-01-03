@@ -4,6 +4,8 @@
 
 [![udlx-ss.png](https://i.postimg.cc/7LMPRq3V/udlx-ss.png)](https://postimg.cc/GBt18wS8)
 
+### 🔥 Download from releases
+- **[Click here ⏬](https://github.com/prjkt-nv404/udlx/releases)**
 ## Note: This Project created just for Education purpose.
 ### 🔥 Features
 - _`Choose video quality.`_
@@ -14,7 +16,7 @@
 - _`Proper download directory.`_
 - _`Subtitles download`_
 
-### 💻 Platform
+### 💻 Platform 
 - _`Linux`_
 - _`Mac`_
 - _`Windows`_
