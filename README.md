@@ -2,7 +2,10 @@
 > *A cross-platform command-line based Udemy course video downloader.*
 ----
 
-[![udlx-ss.png](https://i.postimg.cc/7LMPRq3V/udlx-ss.png)](https://postimg.cc/GBt18wS8)
+<p align="left">
+  <a href="" rel="noopener">
+ <img width=550px height=550px src="https://raw.githubusercontent.com/prjkt-nv404/udlx/main/preview/udlx-ss.png?raw=true?raw=true" alt="logo"></a>
+</p>
 
 ### 🔥 Download from releases
 - **[Click here ⏬](https://github.com/prjkt-nv404/udlx/releases)**
