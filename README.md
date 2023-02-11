@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="" rel="noopener">
- <img width=550px height=550px src="https://raw.githubusercontent.com/prjkt-nv404/udlx/main/preview/udlx-ss.png?raw=true?raw=true" alt="logo"></a>
+ <img width=773px height=467px src="https://raw.githubusercontent.com/prjkt-nv404/udlx/main/preview/udlx-ss.png?raw=true?raw=true" alt="logo"></a>
 </p>
 
 ### 🔥 Download from releases
