@@ -102,7 +102,6 @@ const (
 )
 
 func main() {
-
 	// Prints the package info message
 	Info()
 
@@ -148,6 +147,10 @@ func main() {
 	}
 
 	u.startDownloading(courseAssests)
+
+	// Wait for user input before exiting the program
+	fmt.Println("✅  All downloads completed. Press Enter to exit.")
+	fmt.Scanln()
 }
 
 // Info Package info message
